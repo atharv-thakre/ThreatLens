@@ -706,9 +706,9 @@ We welcome contributions from security researchers, software engineers, and open
 
 Engineered with ❤️ by **CodeSena** for the Hackathon Security Challenge.
 
-- **Lead Architect & Developer**: Dev Sharma ([@dev47929](https://github.com/dev47929))
+- **Lead Architect & Developer**: Atharv Thakre ([@atharv-thakre](https://github.com/atharv-thakre))
 - **Engineering Team**: **CodeSena**
-- **Official Repository**: [dev47929/ThreatLens](https://github.com/dev47929/ThreatLens)
+- **Official Repository**: [atharv-thakre/ThreatLens](https://github.com/atharv-thakre/ThreatLens)
 
 ---
 
